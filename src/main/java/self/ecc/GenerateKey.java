@@ -11,7 +11,6 @@ import java.security.interfaces.ECPublicKey;
  * @Author: yuanchangshuai
  * @Date: 2020/11/25 14:52
  */
-//@Data
 public class GenerateKey implements Serializable {
 
     private final static String ALGORITHM = EccConstant.ALGORITHM;
