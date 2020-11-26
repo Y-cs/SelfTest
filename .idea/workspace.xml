@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e5ad2ab-223c-48a4-8bb0-886c4a2f7f62" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SelfTest" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SelfTest" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SelfTest" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SelfTest" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SelfTest" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="compileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SelfTest" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="compileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+                <item name="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.4.20" type="b3323d55:ExternalSystemViewDefaultContributor$DependencyExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SelfTest" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="runtimeClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SelfTest" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="testCompileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SelfTest" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="testRuntimeClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="D:\Git\bin\git.exe" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kllCBzssNHbVB6ykJjWQNFucx9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.47986192" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SelfPro\SelfTest\src\main\kotlin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EccTest">
+    <configuration name="EccTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="self.ecc.EccTest" />
+      <module name="SelfTest.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="self.ecc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelfTest [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SelfTest [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EccTest" />
+        <item itemvalue="Gradle.SelfTest [build]" />
+        <item itemvalue="Gradle.SelfTest [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e5ad2ab-223c-48a4-8bb0-886c4a2f7f62" name="Default Changelist" comment="" />
+      <created>1606282930467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606282930467</updated>
+      <workItem from="1606282933254" duration="1848000" />
+      <workItem from="1606284872311" duration="3544000" />
+      <workItem from="1606288668189" duration="13153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="651" y="234" key="#Inspections" timestamp="1606286105682">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="651" y="234" key="#Inspections/0.0.2048.1112@0.0.2048.1112" timestamp="1606286105682" />
+    <state x="617" y="197" key="#Plugins" timestamp="1606284891323">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="197" key="#Plugins/0.0.2048.1112@0.0.2048.1112" timestamp="1606284891323" />
+    <state x="505" y="130" key="#Project_Structure" timestamp="1606293693929">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="505" y="130" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1606293693929" />
+    <state x="479" y="211" width="1089" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606285196077">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="479" y="211" width="1089" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1606285196077" />
+    <state x="830" y="257" key="#com.intellij.ide.util.MemberChooser" timestamp="1606294991598">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="830" y="257" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1606294991598" />
+    <state x="754" y="358" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606285194558">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="754" y="358" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1606285194558" />
+    <state x="785" y="479" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1606293702063">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="785" y="479" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1606293702063" />
+    <state x="804" y="436" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1606293705828">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="804" y="436" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2048.1112@0.0.2048.1112" timestamp="1606293705828" />
+    <state width="516" height="466" key="DebuggerActiveHint" timestamp="1606303116703">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="516" height="466" key="DebuggerActiveHint/0.0.2048.1112@0.0.2048.1112" timestamp="1606303116703" />
+    <state x="826" y="380" key="FileChooserDialogImpl" timestamp="1606296040528">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="826" y="380" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1606296040528" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1606305508696">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1606305508696" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1606305508696">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1606305508696" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1606305508696">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1606305508696" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1606305508696">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1606305508696" />
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom" timestamp="1606305256023">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1606305256023" />
+    <state width="2005" height="376" key="GridCell.Tab.1.center" timestamp="1606305256023">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1606305256023" />
+    <state width="2005" height="376" key="GridCell.Tab.1.left" timestamp="1606305256023">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1606305256023" />
+    <state width="2005" height="376" key="GridCell.Tab.1.right" timestamp="1606305256023">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1606305256023" />
+    <state x="526" y="200" key="SettingsEditor" timestamp="1606296146774">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="526" y="200" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1606296146774" />
+    <state width="708" height="496" key="documentation.popup.size" timestamp="1606303894421">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="708" height="496" key="documentation.popup.size/0.0.2048.1112@0.0.2048.1112" timestamp="1606303894421" />
+    <state x="434" y="155" key="new project wizard" timestamp="1606283034541">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="434" y="155" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1606283034541" />
+  </component>
+</project>
